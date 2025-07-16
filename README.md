@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-# 👋 Hello, I'm Jordan Ogunseye
+# 👋 Hello, I'm Jordan!
 
 🎓 I'm a Computer Science graduate based in the UK, passionate about building software that solves real-world problems.  
 🔐 My focus lies in **cybersecurity**, **machine learning**, and **developer tools**.  
