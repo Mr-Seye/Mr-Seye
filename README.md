@@ -34,7 +34,7 @@ Git · VirtualBox · matplotlib · numpy · scipy · Linux · JSON · requests
 
     🔐 Network Security Simulation Project
     Dockerised IPS/IDS simulation using Snort, Kathará, and virtual networks.
-    Includes customizable topologies and containerised experimentation.
+    Includes customisable topologies and containerised experimentation.
 
     👚 Fashion MNIST Classifier
     Tutorial-style CNN pipeline in PyTorch with hyperparameter tuning via Jupyter.
@@ -51,7 +51,7 @@ Git · VirtualBox · matplotlib · numpy · scipy · Linux · JSON · requests
 ---
 
 ## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JordanOgunseye&show_icons=true&theme=default" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanOgunseye&layout=compact&theme=default" height="160"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Seye&show_icons=true&theme=default" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Seye&layout=compact&theme=default" height="160"/> </p>
 
 ---
 
