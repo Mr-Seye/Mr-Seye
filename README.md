@@ -17,7 +17,7 @@
 
 - 🔍 I’m currently exploring **cloud-native security**, **network simulation**, and **AI-driven tooling**
 - 🧠 Interested in **DevSecOps**, **intrusion detection systems**, and scalable **ML pipelines**
-- 🌱 Currently learning: Azure, Terraform, and container orchestration
+<!-- - 🌱 Currently learning: Azure, Terraform, and container orchestration -->
 
 ---
 
