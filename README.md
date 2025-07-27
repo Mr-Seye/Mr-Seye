@@ -8,7 +8,7 @@
 
 # 👋 Hello, I'm Jordan!
 
-🎓 I'm a Computer Science graduate based in the UK, passionate about building software that solves real-world problems.  
+🎓 I'm a Computer Science graduate based in the South East of England, UK, passionate about building software that solves real-world problems.  
 🔐 My focus lies in **cybersecurity**, **machine learning**, and **developer tools**.  
 
 ---
