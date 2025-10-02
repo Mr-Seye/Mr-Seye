@@ -8,15 +8,13 @@
 
 # 👋 Hello, I'm Jordan!
 
-🎓 I'm a Computer Science graduate based in the South East of England, UK, passionate about building software that solves real-world problems.  
-🔐 My focus lies in **cybersecurity**, **machine learning**, and **developer tools**.  
+🎓 I'm a Computer Science graduate based in the South East of England, UK, passionate about building software.  
+🔐 My passion lies in **cybersecurity** and **machine learning**.
 
 ---
 
 ## 💼 About Me
-
-- 🔍 I’m currently exploring **cloud-native security**, **network simulation**, and **AI-driven tooling**
-- 🧠 Interested in **DevSecOps**, **intrusion detection systems**, and scalable **ML pipelines**
+- 🧠 Interested in **network simulation**, **AI-driven tooling** and scalable **ML pipelines**
 <!-- - 🌱 Currently learning: Azure, Terraform, and container orchestration -->
 
 ---
@@ -38,12 +36,6 @@ Git · VirtualBox · matplotlib · numpy · scipy · Linux · JSON · requests
 
     👚 Fashion MNIST Classifier
     Tutorial-style CNN pipeline in PyTorch with hyperparameter tuning via Jupyter.
-
-    🧠 MLP River Flow Prediction
-    Multi-layer perceptron to forecast river flow from historical data.
-
-    📚 Book Management System
-    CLI app for managing library books—search, checkout, and returns.
 
     🔎 League Lookup Tool
     Riot API integration for League of Legends—fetches summoner stats and champion info.
